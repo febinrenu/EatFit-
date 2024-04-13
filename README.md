@@ -22,7 +22,7 @@ Technologies Used
 
 Installation
 
-1. Clone the repository: git clone https://github.com/febinrenu/eatfit-calorie-finder.git
+1. Clone the repository: git clone https://github.com/febinrenu/EatFit-.git
 2. Navigate to the project directory: cd eatfit-calorie-finder
 3. Run the Django development server: python manage.py runserver
 4. Access the application in your web browser at  http://127.0.0.1:8000/
