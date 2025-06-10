@@ -34,6 +34,11 @@ EatFit! is a web application designed to help users find and analyze the calorie
 2. View the nutritional information and exercise suggestions for the food item.
 3. Explore different foods and their calorie content.
 
+## Outputs
+![Screenshot 2025-06-10 175801](https://github.com/user-attachments/assets/ee4e8e50-8867-4f46-aa29-aaba6761f0b1)
+
+![Screenshot 2025-06-10 175904](https://github.com/user-attachments/assets/fdf169dc-d902-49e4-ae20-89f350627677)
+
 
 ## Credits
 Food data provided by API Ninjas
